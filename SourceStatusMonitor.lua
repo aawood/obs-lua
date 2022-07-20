@@ -35,7 +35,7 @@ desc	    				= [[
 <hr/><center><h2>]] .. luafileTitle ..[[</h2>(Version: %s)</center>
 <br><center><img width=50 height=50 src=']] .. icon .. [['/></center>
 <br><center><a href="https://github.com/midnight-studios/obs-lua/blob/main/]] .. luafile ..[[">Find it on GitHub</a></center>
-<br><p>Select an Item to minitor</p>
+<br><p>Select an Item to monitor</p>
 <p>Create a <b>New Scene</b> and add the following:
 <ol>
 <li><tt>`Colour Source`</tt></li>
